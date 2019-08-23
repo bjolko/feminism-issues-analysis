@@ -1,1 +1,1 @@
-Labor data by KZ stats
+Salary and employment analysis in KZ by sex.
