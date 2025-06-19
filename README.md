@@ -1,2 +1,2 @@
-# KZ Women Analysis
+# KZ Femisim related issues Analysis
 Code for my articles on analysis of feminism issues in KZ. R.
